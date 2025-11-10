@@ -2,23 +2,23 @@
 
 This repository contains my frontend development projects, components, and experiments. It serves as a collection of work and learning in building modern, responsive, and user-friendly web interfaces.
 
-Overview
+# Overview:
 
-The repository showcases:--
+# The repository showcases:--
 
-*Responsive layouts using HTML, CSS
+- Responsive layouts using HTML, CSS
 
-*Component-based development using modern frameworks
+- Component-based development using modern frameworks
 
-*Reusable and modular code structures
+- Reusable and modular code structures
 
-Tech Stack:--
+# Tech Stack:--
 
-*HTML5 – Structure and semantics
+- HTML5 – Structure and semantics
 
-*CSS
+- CSS
 
-*Git & GitHub – Version control
+- Git & GitHub – Version control
 # Task Timeline
 # October 9 – Getting Started with Web Development
 
