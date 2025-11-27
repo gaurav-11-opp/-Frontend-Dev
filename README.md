@@ -79,3 +79,27 @@ Learned about responsive containers, typography, and spacing utilities in Bootst
 Practiced building layouts with the Bootstrap Grid System
 
 Task: Create a responsive webpage using Bootstrap components
+# Nov 3 – Responsive CSS
+
+- Mastered Media Queries
+  
+- Task: Mobile-first responsive site
+  
+# Nov 7 – BootStrap
+
+- Mastered HTML CSS Library
+  
+- Task: Made Bootstrap header and personal portfolio
+  
+# Nov 10 – Intro To JS
+
+- Mastered Variable,Operations and Control Statements
+  
+- Task: Implement all above things
+  
+# Nov 12 – Scopes And Dom Manipulation
+
+- Mastered Scopes And Dom Manipulation
+  
+- Task: Made one project(Color Changing Sites)
+
